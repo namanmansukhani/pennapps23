@@ -10,3 +10,7 @@ We've created a proof-of-concept for detecting diseases using images of plant le
 `Project Website`: Derrick \
 `Presentation Slides`: Steven
 
+## Links
+1. [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+2. [Original Kaggle Notebook](https://www.kaggle.com/code/rohanlone4/plant-leaf-and-disease-recognition-using-fast-ai)
+
